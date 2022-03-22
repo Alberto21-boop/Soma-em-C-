@@ -1,0 +1,15 @@
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\bin\Debug\net6.0\soma003.exe
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\bin\Debug\net6.0\soma003.deps.json
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\bin\Debug\net6.0\soma003.runtimeconfig.json
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\bin\Debug\net6.0\soma003.dll
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\bin\Debug\net6.0\ref\soma003.dll
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\bin\Debug\net6.0\soma003.pdb
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\obj\Debug\net6.0\soma003.csproj.AssemblyReference.cache
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\obj\Debug\net6.0\soma003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\obj\Debug\net6.0\soma003.AssemblyInfoInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\obj\Debug\net6.0\soma003.AssemblyInfo.cs
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\obj\Debug\net6.0\soma003.csproj.CoreCompileInputs.cache
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\obj\Debug\net6.0\soma003.dll
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\obj\Debug\net6.0\ref\soma003.dll
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\obj\Debug\net6.0\soma003.pdb
+C:\Users\Àlberto Barbòsa\source\repos\soma003\soma003\obj\Debug\net6.0\soma003.genruntimeconfig.cache
